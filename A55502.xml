@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Henry Portington Esquire, being unjustly committed to Newgate, upon the information of a mad man</title>
+            <author>Portington, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55502</idno>
+            <idno type="STC">Wing P3000C</idno>
+            <idno type="STC">ESTC R220476</idno>
+            <idno type="EEBO-CITATION">99831876</idno>
+            <idno type="PROQUEST">99831876</idno>
+            <idno type="VID">36343</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36343)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Henry Portington Esquire, being unjustly committed to Newgate, upon the information of a mad man</title>
+                  <author>Portington, Henry.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Henry Portington.</note>
+                  <note>Concerns the distribution of 60,000 pounds to former Royalist officers; Portington and his friends complain that they did not receive their share.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portington, Henry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36343:1" rendition="simple:additions"/>
+            <p>A VINDICATION OF Henry Portington ESQUIRE, Being Unjuſtly committed to <hi>Newgate,</hi> UPON The Information of a <hi>MAD MAN.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, 1665.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:36343:2"/>
+            <pb facs="tcp:36343:2"/>
+            <head>The Preface.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Beg your Pardon, if I err in Form, but in Truth not at all; the Reaſons which incite me to this trou<g ref="char:EOLhyphen"/>ble, are</p>
+            <p>Firſt, To clear me and our Party of that unworthy aſperſion, too much uſed by the Enviers of His Late Majeſties Friends; that I, and ſuch as I, was drinking when we ſhould be Fighting.</p>
+            <p>Secondly, I was, and am now to Imployed by twenty ſelect Officers, having no other Deſign but for pro<g ref="char:EOLhyphen"/>moting their Honors, and endeavouring the advantaging their Dividends, in the Indigent Moneys, in which my expectation is fruſtrated, to the Diſſatisfaction and Ruin of us all; for, if they were to give me their ſhares, I ſhould be no gainer. This I publiſh to the World, that I may return, as I came, without blemiſh.</p>
+            <closer>
+               <signed>Yours <hi>Henry Portington.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36343:3"/>
+            <pb n="1" facs="tcp:36343:3"/>
+            <head>A Vindication OF <hi>HENRY PORTINGTON</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>Ifficile eſt Satyram non ſcribere:</hi> It's pain and grief to an ingenuous Soul to keep ſilence, and ſee Apoſtacy and Paraſitical Baſeneſs flouriſh in the ſeeming Garments of belyed Truth and Loyalty, to ſee theſe lurk undiſcovered by the Wiſe, would make the Tongue of the Stammerer to ſpeak, and the Pen of the Rude and Unlearned to write: And however, the galled will kick, and the moſt guilty themſelves will accuſe us, as guilty of the Crime of being Accuſers and Informers, this muſt not deterr or abaſh us. I wiſh all Governours would ſo countenance the juſt Accu<g ref="char:EOLhyphen"/>ſations of honeſt men, that the diſhoneſt might be diſcoun<g ref="char:EOLhyphen"/>tenanced; then ſhould not Vice riſe by the ruins of Vertue; for to ſay truth, Mercy to the bad, is Cruelty to the good: To connive at the faults of publick notorious Offenders, is to juſtifie them in their wicked actions, which is equally as hainous as to condemn the innocent, for ſo the Divine Ora<g ref="char:EOLhyphen"/>cles tell us, <hi>He that juſtifieth the wicked, and he that con<g ref="char:EOLhyphen"/>demneth the juſt, even they both are an abomination to the
+<pb n="2" facs="tcp:36343:4"/>Lord:</hi> It will not excuſe us that we never were of the num<g ref="char:EOLhyphen"/>ber; there will be cauſe enough to condemn us, if we through a fond indulgence wink at them; <hi>Parum intereſt faveaſne ſceleri, an illud facias,</hi> Sen. For my part, had their unwor<g ref="char:EOLhyphen"/>thy practices been prejudicial only to my ſelf, I ſhould have been content to have ſuffered in ſilence; but who can en<g ref="char:EOLhyphen"/>dure to ſee his Majeſty abuſed, his Bounty fruſtrated, the Parliaments Charity miſimployed, and other truly Loyal Subjects wronged? For certainly, when it pleaſed his Sa<g ref="char:EOLhyphen"/>cred Majeſty, at the requeſt of his Parliament, graciouſly to beſtow that conſiderable ſumme of 60000 <abbr>
+                  <hi>l.</hi>
+               </abbr> upon his truely Loyal, ſuffering, indigent Officers, it was not his Majeſties intention, nor can it enter into the heart of man to think, that it was intended for thoſe that did never ſerve really under his late Sacred Majeſty of ever bleſſed Memo<g ref="char:EOLhyphen"/>ry, as Officers in the late Warr; nor yet for thoſe that, de<g ref="char:EOLhyphen"/>ſerted his ſervice; much leſs for thoſe that ſerved againſt him; and yet all of theſe lay claim to a ſhare thereof, and goe away with recompenſe, whileſt his Majeſties conſtant, loyal, indigent ſervants, who through all hazards and ex<g ref="char:EOLhyphen"/>tremities, have born Arms by the command of his late Majeſty, in the defence of the Kings Perſon, Crown and Dignity, and who have continued faithfull through the whole courſe of the late Warrs, are expoſed to ſcorn and penury: This is no ſmall abuſe to his Majeſty, that his Bounty ſhould be fruſtrate, by falling into their hands to whom it was never intended: Beſides, it may prove of dan<g ref="char:EOLhyphen"/>gerous conſequence, for that his Majeſty may hereby miſtake his Foes for his Friends, whileſt treacherous and undeſerving perſons receive the reward and character be<g ref="char:EOLhyphen"/>longing properly to perſons of Loyalty and Honour. And if it be objected, That thoſe perſons ſo obliged by the Kings Bounty, will become faithfull ever hereafter; And there<g ref="char:EOLhyphen"/>fore,
+<pb n="3" facs="tcp:36343:4"/>there can be no danger in miſtaking. I anſwer, That I wiſh they may prove ſo; but they muſt excuſe us if we ſome<g ref="char:EOLhyphen"/>what fear, that they who were ſo unthankful and faithleſs to that Saint-like King of glorious memory, whoſe care and burden was ſo great, whoſe Piety and Charity did ſhine ſo clearly, will ever be truly thankful or faithful to any: <hi>Sic notus Ulyſſes.</hi> But this is not all, that his Majeſty is thus abuſed, though it is moſt intolerable: the Parliament is alſo abuſed, in that their Charity is miſimployed; and well may they hereby be diſcouraged from making any re<g ref="char:EOLhyphen"/>queſt of the like nature for the future: The Kingdom in general is abuſed and diſſatisfied, ſeeing their Moneys goe the wrong way; and, which is grievous in the eyes of all true Loyaliſts, the late Warr raiſed by the Lords and Com<g ref="char:EOLhyphen"/>mons, may now ſtand upon Record to be Lawful, ſeeing thoſe that ever fought againſt the King, are joyned in the ſame qualification of Loyalty with thoſe that only fought for him: And thus his Majeſties loyal and indigent ſervants, that are publickly known to have ſtood all Extremities of Hazards and Neceſsities, are diſcouraged, and utterly out of capacity of doing further ſervice for their King and Coun<g ref="char:EOLhyphen"/>trey; whileſt the Bread of the Children, who acknowledge, reverence, and obey the King, as the Father both of Church and State, is given to Doggs: What more is left remain<g ref="char:EOLhyphen"/>ing to his Majeſties poor Sufferers but their Honour, and that they may tranſmit that fair to Poſterity? I ſhall add my endeavour, by declaring my knowledge concerning the Officers of the <hi>Northern</hi> Army, wherein I ſerved; and when all thoſe who ſerved faithfully and conſtantly are known, it will be eaſie to diſcern who are counterfeits.</p>
+            <pb n="4" facs="tcp:36343:5"/>
+            <p>IN the beginning of the Wars and late Rebellion, I was Cornet to Captain <hi>Roger Portington,</hi> and aſſoon as I knew how to Command, I raiſed a Troop of my own, conſiſting of 90. Horſe, which I recruited from time to time, and hath at this day two Leiutenants, Trumpeter, and 38 Souldiers; all times were we faithfully ſerving his Ma<g ref="char:EOLhyphen"/>jeſty, through the extremity of the whole War, not one revolting to the Enemy, in the Regiment of Sir <hi>William Sa<g ref="char:EOLhyphen"/>vill</hi>'s; after whoſe death, we continued in the name of Sir <hi>George Savil,</hi> commanded by Lieutenant Colonel <hi>Por<g ref="char:EOLhyphen"/>tington,</hi> and here you ſhall have a hint of moſt of the En<g ref="char:EOLhyphen"/>gagements our Regiment was in, my ſelf and my Troop ne<g ref="char:EOLhyphen"/>ver abſent from any.</p>
+            <p>Upon the Convoy of the Queen Mother at her landing at <hi>Barlington</hi> to <hi>York.</hi>
+            </p>
+            <p>At the fight of <hi>Seacroft-Moor,</hi> under the Command of the Lord <hi>Goring,</hi> where we took 800 Priſoners.</p>
+            <p>At <hi>Tankerſley-Moor</hi> under Sir <hi>Philip Byron,</hi> where we took 400.</p>
+            <p>At the Seidge of <hi>Leeds.</hi>
+            </p>
+            <p>At the Taking of <hi>Rotheram.</hi>
+            </p>
+            <p>At the Taking of <hi>Howley-Hall.</hi>
+            </p>
+            <p>At <hi>Aſherton-Moor,</hi> where we took 1600. Priſoners, Co<g ref="char:EOLhyphen"/>lonel <hi>Heron</hi> and <hi>Howard</hi> ſlain, and many of our Regiment.</p>
+            <p>At the taking of <hi>Bradford.</hi>
+            </p>
+            <p>At the taking of <hi>W nckfield</hi> Mannor, Colonel <hi>Dalbey</hi> ſlain all under the command of the Marqueſs of <hi>New<g ref="char:EOLhyphen"/>caſtle.</hi>
+            </p>
+            <p>At <hi>Harthington</hi> in <hi>Darbyſhire,</hi> where we took 300, of which I had the Convey to <hi>Cheſterfield</hi> to Leiutenant Gene<g ref="char:EOLhyphen"/>ral <hi>Kings</hi> Quarters.</p>
+            <p>At the taking of the Pinnace where my Troop had the
+<pb n="5" facs="tcp:36343:5"/>guard of two ſmall Guns, through the Iſle of <hi>Axholm,</hi> in which the Earl of <hi>Kingſtone,</hi> and Mr. <hi>Nevil</hi> was ſlain.</p>
+            <p>At the Seidge of <hi>Gainsborough</hi> where that Perſon of ho<g ref="char:EOLhyphen"/>nour and gallantry Colonel <hi>Cavendiſh</hi> was ſlain, and many others.</p>
+            <p>At the Seidge of <hi>Hull.</hi>
+            </p>
+            <p>At <hi>Horn</hi> Caſtle, twice to little purpoſe, under Lieutenant General <hi>Henderſon.</hi>
+            </p>
+            <p>At the fatal Battel of <hi>Winsby,</hi> where Sir <hi>Ingram Hopton,</hi> Major to our Regiment, was barbarouſly murthered after quarter given, Captain <hi>Vernat,</hi> Cornet <hi>Roe</hi> ſlain, and ſcarce one Officer but dangerouſly wounded, and the firſt time our Regiment was beaten, under the ſame conduct.</p>
+            <p>At taking Leiutenant Colonel <hi>Laſſeb</hi>'s, and his Foot, in the Iſle of <hi>Axholm,</hi> with Sir <hi>John Mayn,</hi> Leiutenant <hi>Gregory</hi> ſlain, Officer to Leiutenant Colonel <hi>Robert Portington.</hi>
+            </p>
+            <p>At <hi>Selby</hi> where my Lord <hi>Belaſſes</hi> was taken, and at leaſt 300 Horſe out of our Regiment.</p>
+            <p>At the taking of <hi>Liverpool,</hi> under his Highneſs Prince <hi>Rupert.</hi>
+            </p>
+            <p>At <hi>Marſton Moor,</hi> Lieutenant <hi>Buridge</hi> commanding my Troop was ſlain, my ſelf being ſent from <hi>Liverpool</hi> to <hi>Weſtcheſter,</hi> being in a very ſad condition, and not rid of ſome wounds I had formerly received. But recovering, I came to <hi>Clythro</hi> Caſtle, where I was moſt civilly uſed by Sir <hi>Tho. Danyel,</hi> which did much add to perfect my full recovery, which no ſooner perfected, I went to <hi>Appleby</hi> in <hi>Weſtmoreland,</hi> where I met the Northern Horſe with my Lord <hi>Langdale,</hi> miſſing of my own Troop, my Lieutenant who was ſlain, and four of my ſouldiers.</p>
+            <p>Now begins the extremity of the War.</p>
+            <p>At <hi>Malpas</hi> under my Lord <hi>Langdale</hi> himſelf wounded, Colonel <hi>Beton,</hi> and Cornet <hi>Hogson</hi> ſlain, then Colonel <hi>Tuke</hi>
+               <pb n="6" facs="tcp:36343:6"/>had the command of the Horſe into South-<hi>Wales.</hi>
+            </p>
+            <p>Againſt <hi>Monmouth</hi> after it was ſurpriſed, Sir <hi>Will. Black<g ref="char:EOLhyphen"/>ſtone</hi> dangerouſly wounded, and my Lieutenant <hi>Marſh</hi> ſlain.</p>
+            <p>At <hi>Ledbury</hi> under his Highneſs Prince <hi>Rupert.</hi>
+            </p>
+            <p>At the taking <hi>Salisbury</hi> by my Lord <hi>Langdale,</hi> after <hi>Lud<g ref="char:EOLhyphen"/>low</hi> thought to have beat up our Quarters, but repulſed by the vigilancy of Sir <hi>Francis Anderſon,</hi> Sir <hi>Robert Hilliard,</hi> and Captain <hi>Sunderland</hi> dangerouſly wounded.</p>
+            <p>Under the Lord <hi>Goring</hi> with an intent for <hi>Portsmouth.</hi>
+            </p>
+            <p>At <hi>Daintrey.</hi>
+            </p>
+            <p>At <hi>Melton Moubray</hi> Sir <hi>John Girlington,</hi> Captain <hi>Ceſ<g ref="char:EOLhyphen"/>coyne</hi> of our Regiment, Captain <hi>Hungate,</hi> a Reformade in my Troop, all ſlain.</p>
+            <p>At the relief of <hi>Pontefract</hi> Caſtle, where we took 1500 Priſoners, Mr. <hi>Meltham</hi> and Leiutenant <hi>Higdon</hi> ſlain; all theſe three engagements in one week performed by the Lord <hi>Langdale,</hi> and made our Retreat without any loſs into <hi>Che<g ref="char:EOLhyphen"/>ſhire.</hi>
+            </p>
+            <p>At the relief of <hi>Beeſton</hi> Caſtle, under his Highneſs Prince <hi>Maurice.</hi>
+            </p>
+            <p>At the relief of <hi>Hereford.</hi>
+            </p>
+            <p>At the relief of <hi>Douington</hi> Caſtle, where the Northern Horſe had the guard of his late Majeſty, commanded by his Highneſs Prince <hi>Rupert</hi> to <hi>Oxford,</hi> where I brought up the rear by <hi>Abington,</hi> without the loſs of a man.</p>
+            <p>At the taking of <hi>Leiceſter,</hi> his Majeſty preſent.</p>
+            <p>At <hi>Naisby.</hi>
+            </p>
+            <p>Againſt the peice Army in <hi>Wales</hi> with my Lord <hi>Aſhley.</hi>
+            </p>
+            <p>At the releif of Sir <hi>John Winters</hi> Houſe, with my Lord <hi>Langdale,</hi> and Colonel <hi>Ruſſel.</hi>
+            </p>
+            <p>At <hi>Claerwall,</hi> where the Enemy kept a Garriſon under ground, under the Lord <hi>Langdale,</hi> and Colonel <hi>Ruſſels.</hi>
+            </p>
+            <p>In the ſevere march with his Majeſty to <hi>Doncaſter,</hi>
+               <pb n="7" facs="tcp:36343:6"/>and ſo to <hi>Huntington,</hi> where I had the guard at <hi>Gorman<g ref="char:EOLhyphen"/>cheſter,</hi> took the Maior of <hi>Huntington</hi> in a Hogſtye, who endeavoured to keep his Majeſty out; then into <hi>Wales,</hi> and to <hi>Wroughton</hi>-Heath, many gallant perſons ſlain; back in<g ref="char:EOLhyphen"/>to <hi>Nottinghamſhire,</hi> where in <hi>Worſupp</hi>-Park many of us Officers had the happineſs to kiſs his Majeſties hand, and then commanded under the Earl of <hi>Briſtow,</hi> and Lord <hi>Langdale</hi> for <hi>Scotland,</hi> to joyn with the Earl of <hi>Montroſs.</hi>
+            </p>
+            <p>At <hi>Sherburn</hi> Sir <hi>Richard Hutton,</hi> Colonel <hi>Carnaby,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Godfrey,</hi> who had the Command of Sir <hi>John Guther<g ref="char:EOLhyphen"/>wicks</hi> Troop in our Regiment, all ſlain, Sir <hi>Jorden Crof<g ref="char:EOLhyphen"/>land</hi> dangerouſly wounded, after which, I had the command of our Regiment into <hi>Scotland.</hi>
+            </p>
+            <p>At <hi>Avon</hi> in <hi>Scotland,</hi> where Colonel <hi>Brown</hi> fell into our Quarters.</p>
+            <p>At <hi>Dumfreſs,</hi> where the Earl of <hi>Briſtow</hi> had his Horſes ſtolen out of ſtables quartering at the Provoſts of the Town.</p>
+            <p>At <hi>Ravenglaſs,</hi> there I was commanded by intreaties by the Earl of <hi>Briſtol,</hi> and Lord <hi>Langdale,</hi> to return with Sir <hi>William Huddleſtone,</hi> and Sir <hi>Horatio Cary,</hi> for the Soul<g ref="char:EOLhyphen"/>diers of our Regiment mutinied to part with their Officers, and would have ſunk the Boat which was to convey them to the <hi>Iſle of Man;</hi> ſo I conſented to hazard my ſelf to ſave ſo many Perſons of Quality; in our retreat there was not a Co<g ref="char:EOLhyphen"/>lour left flying but my own, and in that black night the Ene<g ref="char:EOLhyphen"/>my fired all the Beacons in the Countrey round to give us light, the event of which proved ſad.</p>
+            <p>At <hi>Worton Sands,</hi> where we repulſed the Enemy; Cap<g ref="char:EOLhyphen"/>tain <hi>Braudling</hi> wounded.</p>
+            <p>At the Seidge of <hi>Skipton,</hi> and ſo with Sir <hi>William Black-ſtone,</hi> Leiutenant Colonel <hi>Carr,</hi> and ſeveral of the Garriſon to <hi>Lichfield.</hi>
+            </p>
+            <pb n="8" facs="tcp:36343:7"/>
+            <p>At <hi>Slowithold,</hi> my Lord <hi>Aſhley,</hi> and Sir <hi>Charles Lucas</hi> both taken Priſoners, and ſo to <hi>Oxford,</hi> where we were in a ſad condition; but coming to the Governour, Sir <hi>Tho. Glen<g ref="char:EOLhyphen"/>ham,</hi> with whom I had formerly been acquainted, did give order for us, and the next morning ſent for me to attend his late Majeſty of ever bleſſed Memory, to whom I gave the beſt account I could of the Earl of <hi>Briſtol,</hi> the Lord <hi>Lang<g ref="char:EOLhyphen"/>dale,</hi> and all the Officers that took Boat; and of thoſe that returned out of <hi>Scotland</hi> to <hi>Oxford,</hi> I knew but five, Cap<g ref="char:EOLhyphen"/>tain <hi>Grimſton,</hi> Captain <hi>Braudling,</hi> Captain <hi>Wilſon,</hi> Leiute<g ref="char:EOLhyphen"/>nant <hi>Herman,</hi> and my ſelf; his gracious Majeſty did charge the Governor to provide for us, and the next day I received five pounds, which was all I ever received, except one weeks pay for my Troop, after the Queen-Mother landed at <hi>Bur<g ref="char:EOLhyphen"/>lington,</hi> and did by the aſſiſtance of Sir <hi>Thomas Wentworth</hi> endure till the Surrender, and came out upon the Arti<g ref="char:EOLhyphen"/>cles.</p>
+            <p>For the ſecond Warr upon the ſurpriſe of <hi>Pomfret</hi> Caſtle, the Enemy ſent ſeveral Parties to apprehend us, but having advice of both, the taking of the Caſtle, and the Enemies intention, <hi>Roger Portington, Robert Portington,</hi> and my ſelf, all having real and honourable Commands in the firſt War, raiſed all the men we could, with whom we forced our way to their aſſiſtance, for which ſervices <hi>Roger</hi> ſuffered eleven years Impriſonment, and damnified in his eſtate neer as ma<g ref="char:EOLhyphen"/>ny thouſand pounds, and we as much as any that adhered to his Majeſty, according to our Talent; <hi>Robert</hi> irrecoverably, as it was ſuppoſed, wounded at <hi>Willowby,</hi> and all of us Pri<g ref="char:EOLhyphen"/>ſoners at the death of <hi>Oliver,</hi> one at <hi>London,</hi> another at <hi>Hull,</hi> and my ſelf at <hi>York.</hi>
+            </p>
+            <p>Since his Majeſties return, I have been Lieutenant to Sir <hi>Godfrey Copley</hi> of a Troop of Volunteers in the Regi<g ref="char:EOLhyphen"/>ment, and under the Command of his Grace the Duke of
+<pb n="9" facs="tcp:36343:7"/>
+               <hi>Buckingham,</hi> where all the beſt of that part of the Countrey are pleaſed to ride in, having 70 of the ſaid Troop within two miles where I live, who hath been, are, and I deſpair not, will be, at the ſound of a Trumpet, (having one con<g ref="char:EOLhyphen"/>tinually quartered with us) at his Majeſties ſervice, as all the reſt is.</p>
+            <p>Thus have I briefly run over the ſad Scaene of a direful Tragedy, wherein it may be eaſily ſuppoſed, what miſeries I ſuffered from his Majeſties Enemies, and the Kingdoms Subverters; to be plundered of my whole perſonal Eſtate, and that conſiderable, my reall ſequeſtred, and the greateſt part of it ſold, was no trouble: But to have my Wife and Family turn'd into the open ſtreets at <hi>Doncaſter,</hi> whom none durſt harbour; but her own Siſter, not living farr remote, having compaſsion on her, took her home: for which cha<g ref="char:EOLhyphen"/>ritable act, her Husband Mr. <hi>Wray</hi> was impriſoned and ſe<g ref="char:EOLhyphen"/>queſtred: And at this time, the remainder of my Eſtate ready to follow the firſt, having by reaſon of the fore<g ref="char:EOLhyphen"/>mentioned Calamities, contracted ſo much debt, as other<g ref="char:EOLhyphen"/>wiſe I am not able to diſcharge, this is a trouble: To be im<g ref="char:EOLhyphen"/>priſoned perpetually for his Majeſty was no trouble; but being come home for a while by the Mediation of ſome Friends, to have ſome Sixteen Gentlemen, my neighbours, come to viſit me, all taken Priſoners with me, and ſuffered very much, this was a trouble: To ſerve his Majeſty faith<g ref="char:EOLhyphen"/>fully, this was no trouble; but to be counted diſſerving, this is a great trouble: To be arraigned at the Aſsize at <hi>York.</hi> for ſerving the King, where the Judge wiſht me to thank the Jury, this was no trouble; but to be committed to <hi>Newgate,</hi> and arraigned for diſſerving; theſe all put toge<g ref="char:EOLhyphen"/>ther, produce heart-breaking troubles. And if thoſe per<g ref="char:EOLhyphen"/>ſons who have neither been Active nor Paſsive for his Ma<g ref="char:EOLhyphen"/>jeſty,
+<pb n="10" facs="tcp:36343:8"/>but Neuters rather, and not conſtant, but rather diſ<g ref="char:EOLhyphen"/>loyal, ſhall be rewarded, and ſuch as my ſelf rejected, we muſt expect recompenſe in another World, where <hi>Aſtrea</hi> dwells. In the Interim, I could wiſh, that every man that intends to ſhare, or hath ſhared in his Majeſty's Bounty, might make a Narrative of what he hath done or ſuffered, and where he ſerved in the late Warrs: And then it is my humble Petition, That his Sacred Majeſty would be pleaſed to do Juſtice, rendring to every man impartially to his merit, ſince <hi>Juſtice is the Beam of Princely Ballances:</hi>
+            </p>
+            <p>As ſayes the Old Rule:</p>
+            <q>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>Or live without Diſtreſs,</l>
+                  <l>Or dye with happineſs.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>'Tis good for them to dye,</l>
+                  <l>Whom Life brings Infamy.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>'Tis better not to live,</l>
+                  <l>Than wretchedly not thrive.</l>
+               </lg>
+            </q>
+         </div>
+         <div type="list_of_slain_officers">
+            <pb n="11" facs="tcp:36343:8"/>
+            <head>The Names of ſome of the Officers who were ſlain and dyed truly Loyal, in the Regiment of Sir <hi>William Savill,</hi> none that revolted.</head>
+            <list>
+               <item>
+                  <hi>Sir</hi> Ingram Hopton <hi>Major,</hi>
+               </item>
+               <item>
+                  <hi>Major</hi> Robert Portington.</item>
+               <item>
+                  <hi>Capt.</hi> Copley.</item>
+               <item>
+                  <hi>Capt.</hi> Vernatt.</item>
+               <item>Fleetwood,</item>
+               <item>Armitage,</item>
+               <item>Wentworth,</item>
+               <item>Gaſguoyne,</item>
+               <item>Benſon.</item>
+            </list>
+            <list>
+               <head>Lieutenants.</head>
+               <item>Godfrey,</item>
+               <item>Batt,</item>
+               <item>Lee,</item>
+               <item>Cullier,</item>
+               <item>Gregory,</item>
+               <item>Burridge,</item>
+               <item>Marſh,</item>
+               <item>Savill,</item>
+               <item>Purdee,</item>
+               <item>Batley,</item>
+               <item>Cunye,</item>
+               <item>Snow.</item>
+            </list>
+            <list>
+               <head>Cornets.</head>
+               <item>Byrum,</item>
+               <item>Towneſend,</item>
+               <item>Roe,</item>
+               <item>Burdett,</item>
+               <item>Taylor,</item>
+               <item>Bright,</item>
+               <item>Smyth,</item>
+               <item>Corrington.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
